@@ -1,0 +1,177 @@
+2014-10-23 14:21:25 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 134]
+Trace:
+TemplatesController::getCategoryTemplate() - APP\Controller\TemplatesController.php, line 134
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-23 14:21:27 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 134]
+Trace:
+TemplatesController::getCategoryTemplate() - APP\Controller\TemplatesController.php, line 134
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:15:02 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 150]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 150
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:19:22 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 150]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 150
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:19:43 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 150]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 150
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:22:54 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 153]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 153
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:23:12 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 153]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 153
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:24:23 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 153]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 153
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:27:39 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 153]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 153
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-30 10:30:41 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 153]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 153
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-31 03:27:05 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 155]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 155
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-31 03:27:45 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 155]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 155
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-31 03:32:28 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 155]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 155
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-10-31 03:36:02 Debug: Notice (8): Undefined index: id in [C:\xampp\htdocs\cakeShop\app\Controller\TemplatesController.php, line 155]
+Trace:
+TemplatesController::getCategoryTemplateById() - APP\Controller\TemplatesController.php, line 155
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-11-03 11:33:59 Debug: Notice (8): Array to string conversion in [C:\xampp\htdocs\cakeShop\lib\Cake\Model\Datasource\DboSource.php, line 1009]
+Trace:
+implode - [internal], line ??
+DboSource::create() - CORE\Cake\Model\Datasource\DboSource.php, line 1009
+Model::save() - CORE\Cake\Model\Model.php, line 1854
+TemplatesController::add() - APP\Controller\TemplatesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-11-03 11:35:36 Debug: Notice (8): Array to string conversion in [C:\xampp\htdocs\cakeShop\lib\Cake\Model\Datasource\DboSource.php, line 1009]
+Trace:
+implode - [internal], line ??
+DboSource::create() - CORE\Cake\Model\Datasource\DboSource.php, line 1009
+Model::save() - CORE\Cake\Model\Model.php, line 1854
+Model::saveMany() - CORE\Cake\Model\Model.php, line 2265
+TemplatesController::add() - APP\Controller\TemplatesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-11-03 11:38:44 Debug: Notice (8): Array to string conversion in [C:\xampp\htdocs\cakeShop\lib\Cake\Model\Datasource\DboSource.php, line 1009]
+Trace:
+implode - [internal], line ??
+DboSource::create() - CORE\Cake\Model\Datasource\DboSource.php, line 1009
+Model::save() - CORE\Cake\Model\Model.php, line 1854
+Model::saveMany() - CORE\Cake\Model\Model.php, line 2265
+TemplatesController::add() - APP\Controller\TemplatesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+
+2014-11-03 11:39:11 Debug: Notice (8): Array to string conversion in [C:\xampp\htdocs\cakeShop\lib\Cake\Model\Datasource\DboSource.php, line 1009]
+Trace:
+implode - [internal], line ??
+DboSource::create() - CORE\Cake\Model\Datasource\DboSource.php, line 1009
+Model::save() - CORE\Cake\Model\Model.php, line 1854
+Model::saveAssociated() - CORE\Cake\Model\Model.php, line 2428
+TemplatesController::add() - APP\Controller\TemplatesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 165
+[main] - APP\webroot\index.php, line 108
+

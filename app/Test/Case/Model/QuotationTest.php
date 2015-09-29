@@ -1,0 +1,46 @@
+<?php
+App::uses('Quotation', 'Model');
+
+/**
+ * Quotation Test Case
+ *
+ */
+class QuotationTest extends CakeTestCase {
+
+/**
+ * Fixtures
+ *
+ * @var array
+ */
+	public $fixtures = array(
+		'app.quotation',
+		'app.customer',
+		'app.customer_address',
+		'app.city',
+		'app.customer_telephone',
+		'app.order',
+		'app.quotation_detail'
+	);
+
+/**
+ * setUp method
+ *
+ * @return void
+ */
+	public function setUp() {
+		parent::setUp();
+		$this->Quotation = ClassRegistry::init('Quotation');
+	}
+
+/**
+ * tearDown method
+ *
+ * @return void
+ */
+	public function tearDown() {
+		unset($this->Quotation);
+
+		parent::tearDown();
+	}
+
+}

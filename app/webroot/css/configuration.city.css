@@ -1,0 +1,7 @@
+﻿p.city:hover
+{
+    background-color: #3a87ad;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 9px;
+}

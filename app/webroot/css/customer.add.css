@@ -1,0 +1,39 @@
+﻿
+form#CustomerAddForm div.input
+{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+div#addModal.modal
+{
+    left: 45%;
+    width: 860px;
+}
+
+.well
+{
+    background-color: #FAFAFA;
+}
+
+form#CustomerAddForm textarea, 
+form#CustomerAddForm input[type="text"], 
+form#CustomerAddForm input[type="number"],
+form#CustomerAddForm input[type="password"],
+form#CustomerAddForm input[type="email"]
+{
+    background: #f9f9f9;
+    border: none;
+    background: transparent;
+    border-bottom: 1px dotted #58A6F2;
+}
+
+div#addModal.modal .modal-body {
+    padding: 15px 50px;
+    overflow: hidden;
+}
+
+div#addModal.modal .modal-body:hover {
+    /* overflow-y: scroll; */
+    overflow-y: auto;
+}

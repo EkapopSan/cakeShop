@@ -1,2 +1,2 @@
-1415683123
-a:6:{i:0;s:9:"attribute";i:1;s:8:"category";i:2;s:7:"product";i:3;s:16:"product_template";i:4;s:8:"template";i:5;s:18:"template_attribute";}
+1433297258
+a:28:{i:0;s:4:"acos";i:1;s:4:"aros";i:2;s:9:"aros_acos";i:3;s:9:"attribute";i:4;s:6:"brands";i:5;s:8:"category";i:6;s:18:"category_attribute";i:7;s:6:"cities";i:8;s:7:"company";i:9;s:21:"company_configuration";i:10;s:16:"customer_address";i:11;s:18:"customer_telephone";i:12;s:9:"customers";i:13;s:6:"groups";i:14;s:7:"invoice";i:15;s:12:"manufacturer";i:16;s:13:"order_details";i:17;s:12:"order_status";i:18;s:6:"orders";i:19;s:7:"product";i:20;s:17:"product_attribute";i:21;s:14:"product_labels";i:22;s:15:"product_pricing";i:23;s:14:"product_series";i:24;s:13:"product_units";i:25;s:17:"quotation_details";i:26;s:10:"quotations";i:27;s:5:"users";}

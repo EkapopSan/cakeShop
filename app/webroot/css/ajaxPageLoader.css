@@ -1,0 +1,22 @@
+﻿.loader-progress
+{
+    display: none;
+    width: 100%;
+    position: fixed;
+    z-index: 1600;
+    top: 0;
+}
+
+    .loader-progress .loader-wrapper
+    {
+        background: #ccc;
+        opacity: .3;
+    }
+
+    .loader-progress .progress
+    {
+        position: fixed;
+        top: 40%;
+        width: 20%;
+        left: 40%;
+    }
